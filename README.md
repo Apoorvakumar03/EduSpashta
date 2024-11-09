@@ -1,2 +1,13 @@
-# EduSpashta
-EduSpashta is an AI-driven platform for automating exam grading. Using tokenization and CNN models, it accurately scores subjective and objective answers, reducing manual work and enhancing grading consistency.
+---
+title: Exam Corrector App
+emoji: 👁
+colorFrom: green
+colorTo: red
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+
